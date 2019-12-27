@@ -1,3 +1,3 @@
-# Git 튜토리얼
+# Git tutorial
 
 복습복습
